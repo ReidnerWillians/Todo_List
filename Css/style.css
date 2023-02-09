@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
-body {
+body{
     background-color: coral;
 }
-h1 {
+
+.container{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
     text-align: center;
-    font-family: Calibri;
 }
