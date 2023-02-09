@@ -6,11 +6,14 @@
 
 body{
     background-color: coral;
+    font-family: Calibri;
+    color: #288105c7;
 }
 
 .container{
-    background-color: chartreuse;
+    width: 70%;
+    border: solid 5px black;
+    margin: auto;
     display: flex;
-    justify-content: center;
-    text-align: center;
+
 }
